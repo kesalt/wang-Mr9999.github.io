@@ -5,19 +5,6 @@
     
     <entry>
       <title></title>
-      <link href="2020/12/21/markdown-gong-shi-bian-ji-ming-ling/"/>
-      <url>2020/12/21/markdown-gong-shi-bian-ji-ming-ling/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Markdown公式编辑命令"><a href="#Markdown公式编辑命令" class="headerlink" title="Markdown公式编辑命令"></a>Markdown公式编辑命令</h1><h2 id="1、目录"><a href="#1、目录" class="headerlink" title="1、目录"></a>1、目录</h2><ul><li><p>插入公式</p></li><li><p>常用的数学运算符</p></li><li><p>输入希腊字母</p></li><li><p>输入括号和分隔符</p></li><li><p>输入矢量</p></li><li><p>输入累加、累乘运算</p></li><li><p>输入省略号</p><h2 id="2、插入公式"><a href="#2、插入公式" class="headerlink" title="2、插入公式"></a>2、插入公式</h2><p>​        行中公式：</p></li></ul><pre class="line-numbers language-none"><code class="language-none">$ 数学公式 $<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>​        独立公式:</p><pre class="line-numbers language-none"><code class="language-none">$$ 数学公式 $$<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h2 id="3、运算符"><a href="#3、运算符" class="headerlink" title="3、运算符"></a>3、运算符</h2><p><img src="E:\blog\source\image-20201221112922152.png" alt="image-20201221112922152"></p><h2 id="4、希腊字母"><a href="#4、希腊字母" class="headerlink" title="4、希腊字母"></a>4、希腊字母</h2><p><img src="E:\blog\source\image-20201221112810765.png" alt="image-20201221112810765"></p><h2 id="5、括号分隔符"><a href="#5、括号分隔符" class="headerlink" title="5、括号分隔符"></a>5、括号分隔符</h2><p><img src="E:\blog\source\image-20201221113032502.png" alt="image-20201221113032502"></p><h2 id="6、矢量"><a href="#6、矢量" class="headerlink" title="6、矢量"></a>6、矢量</h2><p>​        使用<code>\ vec{矢量} </code>产生一个矢量，也可以使用<code>  \overrightarrow</code></p><h2 id="7、输入累加、累乘"><a href="#7、输入累加、累乘" class="headerlink" title="7、输入累加、累乘"></a>7、输入累加、累乘</h2><pre><code>    使用 `\sum_{下标表达式}^{上标表达式} {累加表达式}`来输入一个累加。</code></pre><p>​        与之类似，使用 <code>\prod \bigcup \bigcap</code>来分别输入累乘、并集和交集。<br>​        此类符号在行内显示时上下标表达式将会移至右上角和右下角。</p><h2 id="8、输入省略号"><a href="#8、输入省略号" class="headerlink" title="8、输入省略号"></a>8、输入省略号</h2><p>​        <code>\ldots</code>  表示与文本底线对齐的省略号，<code>\cdots</code> 表示与文本中线对齐的省略号。</p><h2 id="编辑blog过程中的公式代码建议直接截图引用，方便快捷"><a href="#编辑blog过程中的公式代码建议直接截图引用，方便快捷" class="headerlink" title="编辑blog过程中的公式代码建议直接截图引用，方便快捷"></a>编辑blog过程中的公式代码建议直接截图引用，方便快捷</h2>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="2020/12/21/lr/"/>
       <url>2020/12/21/lr/</url>
       
